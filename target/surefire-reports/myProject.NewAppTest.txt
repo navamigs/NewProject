@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: myProject.NewAppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec <<< FAILURE! - in myProject.NewAppTest
+test(myProject.NewAppTest)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at myProject.NewAppTest.test(NewAppTest.java:11)
+
